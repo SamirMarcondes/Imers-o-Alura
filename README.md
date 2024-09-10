@@ -16,7 +16,6 @@ Este projeto te conecta com o universo dos esportes brasileiros. Pesquise por se
 
 * **Busca inteligente:** Encontre os atletas que você procura de forma rápida e fácil.
 * **Filtros:** Refine sua pesquisa por esporte, modalidade ou período.
-* **Favoritos:** Crie uma lista com seus atletas preferidos para acompanhar de perto.
 
 **Tecnologias utilizadas:**
 
