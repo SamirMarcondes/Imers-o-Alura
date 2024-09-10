@@ -25,6 +25,4 @@ Este projeto te conecta com o universo dos esportes brasileiros. Pesquise por se
 
 Quer ajudar a tornar este projeto ainda melhor? Abra um pull request ou crie uma issue no nosso repositório.
 
-**Entre em contato:**
-
-Para sugestões, dúvidas ou parcerias, entre em contato conosco em [olympicathletes@blabla.com].
+Essa aplicação foi criada durante um curso de imersão oferecido pela plataforma da Alura. Foi ensinado sobre HTML, CSS e Javascript com o uso da IA do Google, o Gemini.
